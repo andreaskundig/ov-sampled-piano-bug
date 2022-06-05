@@ -14,7 +14,7 @@ Syntax error (IOException) compiling at (piano.clj:23:1).
 The system cannot find the path specified
 ```
 
-The correct behavior should be to ask for credentials at freesound.org and download samples from freesound. Howver the paths that are created by overtone don't work on windows.
+The correct behavior should be to ask for credentials at freesound.org and download samples from freesound. However the paths that are created by overtone don't work on windows.
 
 # Problems
 
